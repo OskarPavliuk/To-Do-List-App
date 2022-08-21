@@ -28,3 +28,5 @@ When I click the delete button, the data is also deleted and no longer stored in
 
 Unfortunately, I could not implement the editing of elements.
 But the idea was that when clicking on a certain task, display the value of this task through the index of this task in the input field, and then when we change the input field, press the edit button, which will give us the new value of the task.
+
+Thank you for taking the time to read my explanation file. Have a good day.
